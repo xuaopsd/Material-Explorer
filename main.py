@@ -1,8 +1,8 @@
 import tkinter as tk
 import os
 import glob
-from tkinter import ttk, filedialog
-from PIL import Image, ImageTk
+from tkinter import filedialog
+from PIL import Image
 from functools import lru_cache
 from customtkinter import *
 
